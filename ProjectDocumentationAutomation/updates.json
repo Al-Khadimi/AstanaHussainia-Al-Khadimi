@@ -1,0 +1,10 @@
+{
+    "features": [
+        "Dynamic Surahs and Azkaar Lists implemented",
+        "User Data Submission form completed"
+    ],
+    "tasks": [
+        "Connected Firebase to Flutter app",
+        "Set up Firestore database structure"
+    ]
+}
